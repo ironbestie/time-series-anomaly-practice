@@ -1,0 +1,29 @@
+# Данные (они слишком большие)
+data/raw/
+data/processed/
+
+# Системные файлы Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python и Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+
+# Виртуальное окружение
+venv/
+ENV/
+
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/processed/
